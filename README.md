@@ -1,0 +1,2 @@
+# fooDocs
+Tutorial mkdocs-material
